@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Saiduzzaman Shaon!</h1>
 <h3> I am an experienced UX/UI Designer with a strong background in Front-end Development. I have a deep understanding of combining high-quality UI and graphic design with robust responsive code. I have absolute knowledge of HTML, CSS, bootstrap 5, tailwind CSS, React, jquery, JavaScript, Nodejs, express js, and Figma & Adobe XD. I have 4+ years of commercial experience and I'm a very detail-oriented person and am also hardworking and responsible especially with deadlines. Hire me for your next project: saiduzzamanshaon@gmail.com</h3>
 <img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/782052/screenshots/9513831/4_ui_ux.gif" />
-<p align="left"> <a href="https://twitter.com/https://www.twitter.com/saiduzamanshaon" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.twitter.com/saiduzamanshaon?logo=twitter&style=for-the-badge" alt="https://www.twitter.com/saiduzamanshaon" /></a> </p>
 
 - 🔭 I’m currently working on [Internet Service Provider Website](https://www.behance.net/gallery/164639341/Internet-Service-Provider)
 
